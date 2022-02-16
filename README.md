@@ -1,4 +1,4 @@
-# CS370
+
 # Briefly explain the work that you did on this project: What code were you given? What code did you create yourself?
 For this project, I’ve implemented a deep Q-learning algorithm that is used by an intelligent agent to navigate a maze.  Environment code has been provided, which includes the maze represented as a matrix.  Game experience code has also been provided, which is used by the algorithm to store episodes and accessed later as experience replays.  Additional code draws the maze on the screen, which helps us visualize the path the intelligent agent takes to solve the puzzle.  
 
